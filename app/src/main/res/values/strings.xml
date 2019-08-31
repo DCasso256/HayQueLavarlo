@@ -1,0 +1,62 @@
+<resources>
+    <string name="app_name">Wash \'n\' Ride</string>
+    <string name="confirm">Continuar</string>
+    <string name="username">User</string>
+    <string name="email">Correo</string>
+    <string name="password_hint">Contraseña</string>
+    <string name="log_in">Ingresar</string>
+    <string name="register">Registrarse</string>
+    <string name="welcome_M">Bienvenido</string>
+    <string name="welcome_F">Bienvenida</string>
+    <string name="option1">Lavado y Aspirado</string>
+    <string name="option2">Lavado, Aspirado y Encerado</string>
+    <string name="option3">Lavado Express</string>
+    <string name="cross">X</string>
+    <string name="size1">Chico</string>
+    <string name="size2">Mediano</string>
+    <string name="size3">Grande</string>
+    <string name="receipt_title">Servicio</string>
+    <string name="address_hint">Dirección</string>
+    <string name="payment">Forma de pago</string>
+    <string name="help">Ayuda</string>
+    <string name="account">Cuenta</string>
+    <string name="pay_meth_1">Efectivo</string>
+    <string name="pay_meth_2">Tarjeta</string>
+    <string name="price_s1">$60</string>
+    <string name="price_s2">$135</string>
+    <string name="price_s3">$40</string>
+    <string name="price_m1">$75</string>
+    <string name="price_m2">$150</string>
+    <string name="price_m3">$40</string>
+    <string name="price_l1">$100</string>
+    <string name="price_l2">$180</string>
+    <string name="price_l3">$60</string>
+    <string name="delete_acc">Eliminar cuenta</string>
+    <string name="edit_pwrd">Cambiar contraseña</string>
+    <string-array name="sizes_array">
+        <item>@string/size1</item>
+        <item>@string/size2</item>
+        <item>@string/size2</item>
+    </string-array>
+    <string-array name="services_array">
+        <item>@string/option1</item>
+        <item>@string/option2</item>
+        <item>@string/option3</item>
+    </string-array>
+    <string-array name="payment_array">
+        <item>@string/pay_meth_1</item>
+        <item>@string/pay_meth_2</item>
+    </string-array>
+    <string-array name="prices_array">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blue_optn">#FF0A3888</color>
+    <color name="green_go">#FF0ACA02</color>
+    <color name="blue_snackbar">#FF03A9F4</color>
+    <color name="red_cancel">#FF0000</color>
+    <color name="car_size_bkgr">#1A6DE9</color>
+    <color name="submenu_bkgr">#BC36434D</color>
+    <color name="gray">#7E7E7E</color>
+    <color name="transparency">#34050505</color>
+</resources>
